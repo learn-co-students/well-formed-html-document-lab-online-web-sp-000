@@ -8,6 +8,7 @@ document to practice putting the necessary elements where they belong.
 
 ## Objectives
 
+
 1. Add an appropriate `doctype` tag at the top of an HTML file
 2. Enclose the HTML contents of a site inside `html` tags
 3. Structure an HTML document with `head` and `body` tags
