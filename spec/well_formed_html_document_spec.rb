@@ -1,3 +1,5 @@
+require 'resolv-replace'
+
 RSpec.describe "Well-Formed HTML Document" do
   it 'begins with a valid doctype' do
     expect(parsed_html.children.first).to be_html5_dtd
